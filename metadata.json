@@ -1,0 +1,6 @@
+{
+  "name": "MISTER JO – Physics Olympiad Training (Question No. 8)",
+  "description": "Aplikasi web interaktif pelatihan Olimpiade Sains Fisika tingkat Kota/Kabupaten (OSK) bersama MISTER JO, mengembangkan konsep Sistem Katrol Majemuk Soal Nomor 8 OSK Fisika SMA 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
